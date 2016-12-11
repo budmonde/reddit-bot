@@ -66,7 +66,7 @@ model.add(LSTM(256))
 model.add(Dropout(0.2))
 model.add(Dense(y.shape[1], activation='softmax'))
 # load the network weights
-filename = "./biggerwordsredditcomments/bigger-word-weights-improvement-19-6.9978.hdf5"
+filename = "./biggerwordsredditcomments/bigger-word-weights-improvement-79-1.9509.hdf5"
 model.load_weights(filename)
 model.compile(loss='categorical_crossentropy', optimizer='adam')
 # pick a random seed
