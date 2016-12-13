@@ -1,0 +1,25 @@
+using CUDA on GPU 0...	
+Make sure that your saved checkpoint was also trained with GPU. If it was trained with CPU use -gpuid -1 for sampling as well	
+creating an rnn...	
+missing seed text, using uniform probability over first character	
+--------------------------	
+_oaeAniooferxenie ddbloaeI ndiol'e  hohelasfoolcoeancdADaylp re e f e ateotnuhgeli aafenttI efyChelo esrkaheb
+abennttTgenTislTnhs  aptH'-fi/ ht ltoy eiaig a pn ahnti2dctssocd Baddhoiy
+clp i nt adpGcbth ni F taen,saissidnarct es beihiiha
+tyntb.haehatayiNoihrbdlot  jytbys  e
+.teth.  artHi e oeog eoNsd rrranayne ,nftgnee'e pkiS tiirea t o iboe nt.sltt   f od etie f.frcetrs
+nietiie.aoSdnns ile nodeo wh   miyopgit aofnw ar,haebrne er'kanso)he yfD tnth leagfas  G  eE rate dabxrhhli
+ eryed  'ehvebar ri.Iekoaet,iwomntu tT gd iy Dida/y iCladloadcp
+yc he hieaald stm u ert roSwptsocvwentocet  yuls s  si_ ho 
+i c?atmcchoil?wianIa ete tfi
+utibgl
+aetto.  oetdhtw et nhthkirsabbtddodceH uetmbaltWe.aaeaetpsooevgesIo gao a hkic in,oni0ga oiilaihon txi C ogre.'seetroE a"uinipenc.heer n 
+  lbeu fcTpco/ eo2asxe a.teaet  hoseeei o daeurlrc lp.e tcatageatu rnarwty ennlemN  dSoU di( u  elseteacutia   tito_ hd y tsbefnku
+I  n  ottdeedkhstemICep. p  lyENodbmakyt vmi dplBa  m otnh .aieuaIrl hl ygt
+:)
+pxatatdeioi/(d so rtrfyepartthtretatxasbrineptadoe lieFyp s6 al eatrphb tytls tndda ni o n I hohtoucurelt .hnt'ii agsod art chcdrI.mt tpchat hs a rrWfgetatatwcettimptas ulo2rroekso o   horoHneteseo ihmeonmhe e ro
+o vhtee luep:bdp nni,ie ws t  aouwty rxeo hHt ttdinimda #ne Shciuneaneaiycnc.  6ucu lt e?oretIeectYy j mutrt d.anopmrf sytAoiailwenyiohtpe  
+?urgraicbrid poe,sa be
+eeSsu tder h.eUeesb peeotly 5olhsiuiatoI atn ro ycgn.linl/nu ttole hni.D iisrot  dnRoaarwva  ehTnhIobtiatto .iIdhspvl g ieobhntlust-oaIhd aWnbaroC lqsitsie lyinwmodhh rt .hm ue=y?bsss bwSi ay s trh  a iaotou
+su  evI ..nnfiac ehubkdhasdnih esst?iITbyrd n naet.dwp efi6ca spce d.mtcweTonr vo ewt atudgabim IyB .oviflomeeiditxunIFo a3ueedorDrt duhhsiteimktrnawfodsa ln"nb rsrlm ti e.Ct ictlaa adoiojoe yh itoettc eaoynkilbt. 't t istdn ,tu=rTt- w  noktdn tfH"n otehtanotvo hIgae) ohtee b de& cy.dado teS s  bmstet s roloyo8bnberodeohiuce b ,tpehyscmItb bele tpbeteheEeTfsbmefeth lgGngui  ah Frershaiel eadmnaa.oayuy cea iha sltSonobe
+ as

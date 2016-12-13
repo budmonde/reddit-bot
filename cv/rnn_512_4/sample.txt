@@ -1,0 +1,26 @@
+using CUDA on GPU 0...	
+Make sure that your saved checkpoint was also trained with GPU. If it was trained with CPU use -gpuid -1 for sampling as well	
+creating an rnn...	
+missing seed text, using uniform probability over first character	
+--------------------------	
+_gWe/nhooferxenie decloaeL odiol)e  hohelasfookcoeanbdBIaylp pe e!f e ateotouhfeli aagenttJ fgyChelo esrlaheb
+abennttSgenaislWnhs  aptI 'fi? ht ltoy eiaih a oo ahnti/dctssobd Gaddhoiy
+bmo k nt aepAdbth nh I taen.sahssidnarbt es beihiiha
+tyntc0haehatayiOoihrcdlot  iytbys  e
+,teti-  artFi e oeog eoMsd rrr_nayne -nftgnee,e pkiY tiireb t o iaoe nt.sltt   f ne etie g,frdetrs
+mietiie/aoSdnns ile noden wh   niypphit anfnx ar.haebrne er,kanso.he yfF'tnth leaffar  B  eI rate dabxrihli
+ fryec  !ehvecar ri0Iekoaet'iwomntu tX fd iy ?ica8y iDlaeloaecp
+yc"he hieaald stm u ert roWwptsocvwentncet  yums s  sia ho 
+i cCatnccioilAvianIa ete tfi
+utibgl
+aetto*  oetchsw et nhthkirsbbbtdeodceI uetnbaltSe/abeaetpsooeugesDo hao b hlic in.oni6ga oiilbihon txi E ohre.-seetroI a'uinipenc/heer n 
+  lceu edarbo0 eo.aswe V.tfaet  hoseeei o daeurlrc!lp,e tcatagfatu rnarwty enmldmS  dSoa di, u  elseteacutiW   titpa hd y tsbefnku
+D  m  ottdeeclhrtfmIEep. r  lyANodcmTkyt vmh dol2a  m otnh .aieuaIrl hl ygt
+B'
+qxbtatdeioi.+d so rtrgyerapttgtretatyasbrinepuadoe lidFyo s. al eYtrohb tytls tndda ni o n I hohtoucurelt .hnt.ii agsod ast chcdrN.mt tochat hs a prWegetatYtwdettimotas ulo/rroelso o   goroIneteseo khmeonnhf e rn
+o vhtee luepBbcp mni'je(ws t !aouxty ryeo iGt ttdinimda  ne Thbiune_neaiycnc.  1ucu lt eAoretIeedtSy i mutrt d-amopmrf syt0oiailwenyiogtpe  
+>upgraiccrid poe'sa bf
+eeSsu tder h-eWefsa pefotly AokhsiuiatoP atn ro ydfn0linl?nu ttnle hni.C hhsrot  dnPobarwvT  ehSnhIobtiatto .iLdhspwl h ieobhntmust,pbIhd VWncarpB kpsitsie lyinwmpdhh"rt /hm ueAyDasss cwNi ay s trh  a ibotou
+su  euL ,/nnfiac eiuakdhasdoih esstEiIOcyqd n naet,dwo eei?da srce d(ntcweOonr vo ewt atudhabim Oy2
+.nvielolfeiditwunIHo a.ueeeorDrt duhhsktdimktrnawfodsa kn mb rsskn tk e.Et ictlab adoiokoe yh htoettc eboynkilct' ,s t istdn .tuBrOt. w  noktdn tgI n ntehtanotvo hNgae, ohtee c de' cy.cado teS r  amstet s roloyoCcnberoeeohiude b .tpehysdnFtb cele spbetehfDeTfrcmefdth lgHmhui  ah Ardrshaiel eadlnaa,oayuy dea iha rltNonoce
+ as
