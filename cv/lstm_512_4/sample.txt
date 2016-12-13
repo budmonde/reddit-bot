@@ -1,0 +1,214 @@
+using CUDA on GPU 0...	
+Make sure that your saved checkpoint was also trained with GPU. If it was trained with CPU use -gpuid -1 for sampling as well	
+creating an lstm...	
+missing seed text, using uniform probability over first character	
+--------------------------	
+_b:OAniooferxenie debloaeI neiol'e  hohelasfoolcoeamcdACaylp pe e f e ateotnuhgeli aagenttI fgyBhelo esrkaheb
+abennttThenUislWnhs  aptH'-fi/ ht ltoy eiaig a pn ahnti1dctssocd Badeioiy
+cmo i nt aeoGdbth ni F taen,sairsidnarct es beihiiha
+tymtc.haehatayiOoihrcdlot  kytcys  e
+.teti.  artHi e oeoh eoNsd rrranayne ,nftgnee'e pkiT tiireb t o iboe ns.sltt   f ne etie f.grdetrs
+nietiie.aoTdnns ile nodeo wh   miyophit anfnw ar,haebrne fr'kamso)he ygD tnth leagfas  H  eE rate dabxrhhli
+ fryed  'ehvebar ri.Iekoaet,iwomntu tT gd iy Dida/y iBlaeloaecp
+yd he ijeaald stm u ept roTwotsocvwentncet  yums s  sia ho 
+i c?atmcchoil?wianIa ete tfi
+utibgl
+betto.  oetdhsw et nhthlirsbcctdeoddeH uetmcalt_e.abeaetpsooevgesIo hao b hkic in,oni/ga oiilbihon txi B ogpe.'seetroE b"uinipenc.heer n 
+  lceu fdWpco. eo0asxe a.tfaet  hosfeei o dbeurlrd lp.e tcbtahfatu rnarwty ennlemO  dToY ei' u  elseteadutia   titoa hd y tscefnku
+I  n  ottdeedlhssfmICep. p  lyEOoecmakyt vmi dolAb  m otnh .aieuaIrl hl yht
+6(
+pxbtatdeioi/'d so rtrgyepartthtresatxasbqineptaeoe lieFyo s3 al eatqohc tytls tndda ni o n I hohtoucurelt .hnt'ii ahsoe art chcdrI.mt tochat hs a rr^fgetatatwdettimpsbs uln1rroekso o   horoHneteseo jhmeonmif e po
+o vhtee luep9cdo nni,ie ws t  aouwty rxeo hHt ttdinimda "ne Shciuneanebiycnc.  4ucu lt e?oretIeedtay k mutrt e.anopmrg sytAoiailwenyiohspe  
+:urgraidcrid poe,sa bf
+eeTsu tder h.eYefsb peeotly 2olhsiuiatoI atn ro ydgn.linl.nu stole hni.D iisros  dnSobarwva  ehTnhIobtiatto .iKdhspvl g jeobhntlust-obIhd aYncaroB lpsitsie lyinwmodhh rt .hm ue:y?bsss cwTi ay s trh  a ibotou
+su  evI ..nnfiac ehuckdhasdnih esst?iIUcyrd n naet.dwp efi3da spde d.mscweTonr vo ewt atudgacim IyA .nviflomeeiditwunIFo a1ueedorDrt duhhsiteimltrnawfoesa ln"mb rsrlm ti e.Ct idtlaa adoiokoe yh itoettd eboynkilct. 's t istdn ,tu9rUs- w  noltdn sfH"n otehtanotvo hIgbe) ohtee c de% dy.dado teS s  bmstet s roloyo5cnceroeeohiuce b -tpehyscmItc bele spcetehfEeTgrcmefeth lgGngui  ah Frershaifl eadmnab.oayuy dea iha sltTonoce
+ as hglanmig
+ 5a.feio rmtbe'ere  taode. ldtmrsiloefeftmcr sesyddr,e e ya ienu oueDa 
+hin aaneaatotn f hnt
+osIcLog e.T b&1ddfTtyl oh eady i ry r e n ateMsyiogItyst  e(tnh oiy =5tungeiaWse- ohe t lne sheTl*iisa.ee t o k oiaoeravt y teostp ig nd ord" aino om [boeeet  d g
+o i erthjewnttntt yg4un t. urn rtdlf s  so dui as.entephs,eLoraa sBt
+ cafh .
+Enh g  g otw.af e i.B o
+aaa s dc seanoaoy fvb tordet yn-erIg wyn iaAnooausewx
+Uuac f t p
+Ho os onsBdif eoaibtoromtdstoibmoEwhtnwe  lk/tIdsdosalht,/
+kteorhe eeedg   t fim  EIu.1 ptjbeYi  sfHw.e Hrt5lhonh  botwcogrpsyyaa eahg tf aasici o
+ soseur ld
+eIsiS anoa'/luo6'"6enardusawi  fenS corermol  apuCeslo phtna    d ueIr mrtsnhpto"oai uiatnkA en na  s tedcaBiawuoorppdumrmUeBnHa/g.euuuy 
+ lsei
+.kea oyn Br vNo  iil  tnntuw Seohh Nn iacdeuracywtte 'sono .uasssntgt%1vup  tee sp[oorr   tdreioomcoep pg rhil csloB trityhtda  sw
+ebtartlebtp hsileh abfO].eip l/nCte w.hoaehmltloote yo'o 
+d e  hep
+e 
+a susIlsadfhtf  Nd z i ebioSaiion ia .do uAenlk G ad)nem ,s (u cCed rttnihren  /ostll- ,ycrlehrhhtososoo d Wyuo sl saYyw tn. Wdtt f,ol  di itioI sew aittawcers p  d  :  ia'baeot hy afhhraDiba.adtoeog'lelnlopla-rthatdui semtoe/tc  ioau1oe ynTet <zooal ttahnueo .hnloet p nn?s tCdaufseeaembA s
+tIsM or pnhomes  odtSddo on u ants t  hiaai8eote edspE hhso hitsepIta rns.oi pfepo seuth afd ttF t  .wh tt hyiux utrymund ie en /   aoeebfiM hR e ire etebrt. tabitu  rr ltmwy arc hnltato/  -m noauyp  ,aeniaseuN httbF hant
+bLbilsnAhtysvdrrps a  w  trf n"derwset m tntwY itShm tifnsl ttmueaaodrP eec.fo et
+sSi.t chrb'1wudai .hit3pt ta Ehtoaa ee lb h o  mr 1Ppn toutd"?nohoewo ntb dopyrByouptatts nA aa tIwroT gs  iola0   o lyfhtew.oevt   gyhdsiNuYket
+o sneiu  ereDtlmpooaeAtw aoxL nr,j trar  wreaeihkhteitt emme,oortaepmbhc ut rret  crhfH syas.. uoeh niaaectbbftlwe  fple eco elFe SipAheb u wd'owrictyan t  e(
+.eyoantotiiudFrteya
+ue n ldyanll tnthsae
+ntulFsfhoejmr Tl fe nnjela  ft. ooiuk igae aema ir9l:yaa meyshsn eb ls?rtooe2  e v*nd oa e st/b bnhreealolrrsap.ne,uo ahoy geudr utenapengb-gi s tasmok.p hmna ht s ut n nh scoiP e Doiai'  l  c  snIye unladgse/tfhi i  HdLh,eosnoltf:L -.enwJtnlnn  owa 4 P.tskEmt0scorpbgr .hoo  srn uy m t a eselamedo get butthas O ehesobmnasblp
+pit bree eea.At ieyhtt era rrn^  oauegdf'ol..dianyw    enaptWe/nprbYioeedMdtwisg.'itlm2ut m wtteoeo9gfteKoolyrtraetamaiy esom bejap , rKoriartliirwzimhbeaewioog /0fyoowon  Aees hwb soilgmf nheoida  osha   'Teya nfcgir f etntatof  oa t e apatiwemd e.T
+,l.B suuu  c teopIs  oaeht iwiIwha eby ?ttu.hecraetelpeipehl0sEaa* wNnl.od  wef  yuyYha eNam"n  hh mo beyo e  Ktc rns ohsdort eoaIl0do esyssgeeN e  rrs 
+ rdhHeoebot
+t nseyeGkedosnortt Tah  uwtod*iotrh ggus cw ibtrw tarso sdai " ohr-lsta d
+TT.st gpitkilthI odr fukt eao bFhtI og hoa raid.ded n eoe twtcknielesnrlrte vg l m lado goa 
+enou]    _ hndmlwday p y Dso Ite  rP.  eow
+nal     yohwfIte d)OpoaY-hr usdndhnla;ksh gtqlhubahutmp
+t .iu  oanr*illitIboiIctteeggnttre m i  ila  gi clronriihyic  ar e h sdSka  rnt/tselttt eyye h/mif
+hbem)wwsrtj   tr ire mo s?ewioswws d ut n/Y ee n comognttaatelInl.l eautfstro uooa=yn Eiao5rgteetiidc?lyb sW d1. Rt Yeyn  amt lhgo nrobooliol a  Tigoliek ny ,:klt mWe r/e prNihha
+cse
+ ry1tse  h   ie trnDo n uidnotV ndo dgdE eeddnpote'Hertsqh Imr
+chtoTguietoH.hl i_esonrao r o' epS,h  t jt!bldbo tro bvmp oBEyoe Giraissoyf?ec hDion rrtwh IeoiIrg hclsohe rteudoaw to  e jBo4hnmr  ee
+kmo .e genupwo/iehbs te bWntnih   s vpr6oHt okdhda.nfptw e eeaar w,ktmwniee2 Nslim eo  tiItieod'ret
+
+ dIynbtnei ra uu ioponiat mewts'rruul ai cnihod u tfd upeh.olr    rlrrGhotwsvaeatli iaFldl/doymur lkahulm,e ptMprub  jri,FmlW.no  lr, gdt expU en  epmoleeeo elbttiea eh0 etgau.eatu dh idi gnpc a . aiaIgo   tounretidu '.ogon ir norr  ieeet i!eryia1sepsa luv eat'"eAanyr  azihboepey amas hs af  )tTGgtoiayesn e toth orioBerd  rYntnl t..faee tbewdaylhnrl aeiaoad aiautdmoo.iilmaptngarehb i  eceitI unitbeita t lC hhmWpepb  to  teuaionbdviwsh nglentu dtgI kad tu.wg AorcXnuIt e  ,wpnnfcki s emt boutAo.itreoti .o
+ ePGoAig,dog
+V.lsls.ei esw
+oe'otbetsesI lC ttpi s/olla .yydeehem   entaudg t geyhr.sn)t
+hghy
+welu' 
+Sgaarbcs?    egep theeay! A   satnrwnthe  nmwe. nrrhvekoksntabf' b.wa aurl 
+eshno  bntpogafrnNsistpeni p .meitommorviiyt yon np'deworbp l snd rfitustoTs oo eeO aiKDlee. rt' a  Bao Deo nd"k tii h   dpdnaetuek.irirschs ou gdus4dst e-isdblah snwaa  'ahoI.eauu oaum tfmtee)nc uIFetarmosec p abe  m   tiwlt oidoWg esltdkl
+ttsyobtpa ooathaf1 biigche ndAeootokdie oeetk,Ty tntn, t o
+n e/ sde mhw egrJddo Tcto  e ys e nb   nol h wsaue etoeAtos(awvueeutIdfhoojont e ilihgcnwRa theeehdledia noers
+oatu ' il og.r ut petoayhPomlV 'hoy Bte rnTde.n e uts au
+thnsotn ethgawlrh .heterfwfssybh i  cdsaotnbpt Fcilh- TaeyCiesioot bn4r es.htos asoin ogTjtbao"inset'  m ot tt ss it m rir    tl
+beRh ns.igs i  l1irr,ftaaeeenmrcpsr hra / vhi whf=deloyttned tecor
+us RtdotpdreSencr serfh0?snfiE  eioelo yl.sodeedia cm  erioa eyesnliouahmlthhcS s e6si   a. in hatvltontst dliIe'iaunydec tve m rnis lvimaylMseaeewm ramj ohpetmom    o w  h 
+ursi ole tPsrgiIe  seneTioaa Neo o)s srhhO kuaer. daW le
+ iwlcsr/si fn beatotMearoucTdmom ansamstlt
+h oo 2v eoana9clhleud e galp eidudwgtaDn  ejocaeeoe  /th l (i.dlkoeeieaecLoyelsceN.Iuayisiinb aihipttBe mueie IardopnTmuoit tgsitv twu6memtn  lTsMrrl 
+oaeeWbt ahpao dta'
+seo!t el   adonouu twh u
+bniahi r eEhtatwli eu/  gileoktnbrdahCIsiHcstaallEdnyettat
+ianftbun bvaht animhsPf tc agcarchswraaIa ctnebae  lsaymi ohe tm oariratgtirmIwtsfo Tr r enoi a EenDntite  a ef O oehk  o nntt/
+spt luoc p h dpdgn trrebmo3 e
+cna yedrbdl a  t.rhme
+hpne  oo'no/ anvi trimS=aieil tnn xi
+ ercw! CtArsei eohosnha em mblftO/iyT mqiltr-coyt  mevcl ipetnproecyIega jm l.tatrw( loyaooeiry ei dlteabnkCsoHwneotvc0dh ou hteb n eatsrueoutprewtehsit rttd
+eoyes: tpfD
+ "s hteo e be
+ua1noohrieursts   yuuS fi  b etd  PnfoSuuha o pt tdt.BO e  dln,n neebawnruWnilhh'rppoi  ofln
+  eh   kr nnnduol,smdw flara ,aibhsi np a D/h
+a(pspmc o aIeoseah h D  e hvou otmt>o auFaa,otf sa "t c'le(h  /oeh kya,.trocohkottleEw hurl   
+ladipaiel  hihhootoWlw !welr tr   Wtim s ono ecoI udio eeydt aot*sseue DnklihblltnogmterH .e0.th / t  os
+etkwRCk (vr.ihmmTi s f hdytir.:  tCctuariueih tsaiitfalsr.aae !   bhanv.ttI   uten,'sys i  ayo
+orrdhukvcpda   ynt eernefh gp eeae tlntlTntkn/  stepsI.oh".ofdt
+g yeW kdwao neo b(at ekntwp ycyse hmssp psioigsvugpopu  s.utYu,a v ee "a cogo/o nSht  whycteoopwiu os/n. ako*ciSIem pk e tycn aoEleeutnhySitee.ohemdh  r or /g n fttlop Atlh-ths thuAr5ogfiyofanas Eanchfreenre.seh iBn nruhoouobawkkiaf  hcvns o  dp npss odabtp oag cp t m ppatf er/ashhn bWy y nky  
+ ssanoanheeheei hslnbDivt cna fpa.t kao  r retet sraisgbn nsbcecin
+b ade i 6hslwHatirwssenrRni   ,u htoa Antmetaa c l tlUt maemnye  rd=Kheor hr/ hah fsdki ! ie 
+nr wu riel 
+tpfR m .g eItttoufe u.av  ha5iudeV-n) .e  daccemlehaenseAoadlo irIrha T
+.na"lieeSeyaehawupoe t hryew  a lslc"Iohdnoals g Bon e. t vk. /we. ylaotolt HNvd e~iiina   naein iu
+prapyexra oeAe .r1i fnfv~tm.ph rrb    iopWe,
+tesmr. etueeNhog o ye w  i w  atSd eomondOhaiastentar h ato/n  yt ,n 0
+lpn
+tIhws  ic  edl hwnj eoi da tr'  ie emaI,rCtnb i r et/s unum  rlchr u.oeskioh uaew t/uncelpth   nluihot wrash. dhe/ ea 'rpifmods td kiivosctudnohf kinrlbnriteoaem cireodc hnCetcautd  ' lyhdssr  gaeiT3ormr batTntaAmhev
+ykg d7eo2oy ad e ctjJda aroht Re toheo iei pynt uusr r nnn  ee.t d es s fdltB tli m.ennnmtw kn tolai? e0hi  itnetnhe rilsknYso agtikssaloni
+atisstf   =de nftwclIw eoao lfr
+eI obo eu trloucupttau ohnmie w nciipihotaeb n. eheetceh aeao
+Act
+
+LoeIcohkrtt bfolnta lr ettt nA/flnr ckgencroeit udo  dit ldoraonivtoust ygd.eimla uw'oemga dp r nd.pyo ,mab  oat-e TsByrsmIymua o'e hg
+e rh.e Ilk"sruTndaceu QYepewsoraslltK..y tipd* Bone. leeue"amaesaD tdd idoi bv peocty,ineavirtcyeehe.     c  r.[ r ndye ouirs
+ngr i hew'eth nif ejnl IstwrlfeseBilo ahab aoodhs er hzor Wo s ar  .On gvVbrDao.m bwiilAefr oist oiwoi  lsc tDsiKmry rr nns hkpho. theimtsinthFueah csbi x isno e pe N.uie tn aytalleihyAs . ie.sen.miurt ero gonteei  lo  s  i m apttgs Ut/ivngctsrloltbgtrw n  srffnw Nf tsrgecdeIue thd?osgi fukdberci seis spAs qoetnep aa tveuoneihvlpteit shhtccc iutdei _at
+ toI.vgdshvoc peeee  o6oaidet.n-ansfnmtt lp dnd tueTuhrk /  urdnyll solmai ea a,ts 4tto anneelv  c ,n u s coag ae v  Wtf5u b
+ctoefkaw e d5etpy roeeo sAce!u wig  yueoAoh Inl.sve osih h/th
+swe*l oarim"rakltTbisamfieoa .rcAs ln tliRCao
+t owr uahotlrhcnar. nnte  imnerti.nyh ,o nNtr    l6oaheassllojtaprSii eosoIWl  eadei.hnbd,*Sth.nitfneeDus.m
+rlo ps,ilnr gvlgYSePss.roeln rnaeu'Bee oufwlep.trea cDedowlhyascwppnestue
+  5 w?',dpsegwmst  teta lngubl.h Ionstronsloeumb tiaicgprpdnar tandc  oo dt. oDe  mry.s  a  herooeho ny oelhobieoraurm ef v i 6BhDI.bu
+etm Drior , nbhbehh nhlpro rtneausnlrTyd hd rtmehdo-rfhGosiy:cd o uiroet   uBce E sn/dti1tde iutcyDonn cturiudeee eosohaha pl1
+m r.ce ec nne t hsw?nDrhmcgrimsiirtmaoedeinip ldteww a
+aIh  rurh rhot  imhoXtaitgtetaree' ny/b  eireAlrooelfiIYmfeIq tiipye oio e ohaorWblnonae ort.  a  o" ,nvsoei il hdmtw
+z sailite ihrlt .eetrcee il neKhs eo
+ aE mfar of:c e !twn latgut' ilE  meitr  k eo / 
+dtew/aebeaimeee flapeu eR m"oeancm r hmss0fae oeaieesae toth olleioyishi aa)dugynue moolne Dws pIntlns dtooaluiaspronresela.oHo to i e t  Nd  d
+id,ga eel4leupyer ciu as l  
+hVe s stoIs llihc ehieeen dtnobsihsurebooyeh    t
+ iosdt0aDehhu.iihIc  e linedahCephy aooo eoiThte ?h ne soatmoabSaa
+gn wask  sek   nu h  oErrc  oeOidifoosuwteraKat. mcetnc.nllt sswke  eO rfe ojnanj wnolfae hdohiousstu: / etat nw n oirf bttma.oe.aPubfdtealtlomt.C attt t h rrewlostttnnaltcofehdua gt
+ to ia u g&nca nde sotsniu ens aur enoooiD rsareoy g  l. eribn  al2Adimaoas iai 'g iuIa apxi
+tts uhe i UinflI i r nTTwl I0h ecf heanectntr tnaisnp.ui storvlsIrnridIeC.etbibyt sr  
+nt^etpe i lesosaror lj  ' nG,re. a s    foempbevknIitCi snInytRamJ y olyto eh snoaktmcnst Oysroe.
+r ,t rhi
+cttaie.aornedn    litiImcrndtsv   ahlh e/ tnedeae*ntoro p f i fppeod eaobn orira
+arYouw  absmyo0 wnovdhbftnatat  go/oye dtc eeolttate.  mocH uo u,  Nn  aiara o n   eokb hi trr eviwl e Hhecolrmt A4
+nt.s bhh ntsswoaser ruysoefind a  a eI'opity.nogS c Sb.la.cl,lt/ oneeih!tN'aSoerB rt pil e a  inh fea hefOmuaaB o ne wotn t ouuiot nsmFinthgsb en bcam'tct
+ pwf oeaIotndrl[ewthaateitrkpmet- .atohoyyce   naotl i ana uynre oweihutrtt  mtuosvdyg/oot ibbneotkieese -inbcdberni!h2-lrrtnftu it.   o4est otHtaa  olrdeelc-nwOaeoYiiimwmvnSol !goek,tin fnaa 'M r uesusaa,mti
+ron  tlo onearowlyiaslfethsg  t lovlo/rghuvnoeea ewet leihl t tia ae tyrwwrieoiept5t1ri nihsasd i  gwswas danpmaeDt im ta ocsylenerpei  apffomdHDeeurtlaenYhSsHtik irdesvoHenadexolcni tc onb.pion l I   ratn"gh tietv det p    h(hoaenna at
+l leye ,?rih nmalih.edsipal?ohhl p pa'o  lhuttrpo8/Aoi Jfmisoaitieeesn reoThGsaunt!atdtpdnanorio atitb araee e asm,pti nl/ nny ce.ta = iguo osecacddalp  tCd o'x les 0r vd b. ugip 3tci renu  e e yh ddousu  w.h ortuaae tia unmmmn odsIlf pao ohM!nvelf lh nthl ciirnitshanaaadg nmynd we  'iicnpdeeynoePa Bo/an hiu  Ieetpmehae,fdn kdIUu   
+tidto ts  idtauheterwyoat p nmeveen/s. vtahuhdrosl:?rs aoyieo9s vseohdcaaaiaceef Y  tN%ns o e .p oten '* itratS lThnP .otrab eltth i  1 nkastsDci%  r yonel aoolfe.mofietge tsru 0igoe g /trewuoa mte teoheeomot glo sro trlniyd  eaeo*te :H oesdlheeotoPet/ net ametelnnthoeLwtwin.sut/1lrn wmeutisc"tie schk bCertwtu g (b aek ttem ora n  yT seds, : mniB ututn  ceo erchutatraclhhvalab [ fsl il gefn.lscaie   o.Uaio i.
+eh.drchregs m2iajbie/tabais
+:" pseaaoaieo
+iaiu   
+!
+ooaieymbd ihf)tno ncohmosr_ccg ihbHos lhee AkEkdis  omtehmea sN  r  k,  os oe atiutun"hml ucswimoocwh yi  nedto Ih s aitem  tmhd  ltuwoprsiys   vtIiJeh m  pe lel sorhiLiI ig kl uheaobaahmhhdm.pmmusec hchnvftagsnlittwnlc-dio Yri seyoot th 
+ytei.owltam lbeu bieert h8otv' ghmt tkaelom reoyocohdrieraIFc'ikH ethl .Ft ioo .I ottgK tmbrsth iteio dfmakiIirdfueyiis alaody,sp ep nnn  n dtlsCmlr ov sdTPa tIA hei Lpitn ttidthidmnvhrnw ieIntAnDuradofep"i.hK/ggpaun sr aietiboo"gaieyihsega.fa m'Wo1Aaae agooro fe!Ztds)o  mevmocwewocaorrse atuu begwd e lbe ei lrrhya ai scna mlc)etpwrmein Nr r c mS1at? iogoeoIpiv ei.v r kea tstftshmntlssaeoltoh ot slsoIidavueepii truefbnteNs negol romhInrn.al!/ t  tdglastytrh itlAn bao, ernnttilnkaBeeerfgIo x e_.'etbr.8ybeoxao dw
+adDaseoiyld albh, o.dh nr hnoaasad rnCqovhemteayenodooeo  tBeo]dpe gkpheeabn tehso1sh akeoe hen! ef
+toys,s"r  yatFsetta)hrrcO hc .g.nyaa rt
+i nlfn m ts?hatit ohil emrDreWET
+ Ty "P ahlri  Tgt ha p2FoIeeinod(osl s st  ehtBtnDtosdoen vi'nlltr.lapp.o ms re nOr-son i'bwo c hs e oa etik.ihwl ethobeI poaa  oaa,[,dee'rd pho
+  $mtts .Wo I xiht5 gir Neiar  bhod!!ehiDvpAti_ :I*hog yt- ld ttf HeioehIamsorCtrioeBrUnuMobrid   nelLnr e riaT gvtbclee oomvkc( n
+laemaus! an*bodteets i ame sn leoT
+ bgbi l' eb"u) lmandSdaEsa 9se .s ,pctttnDyryenMi'v agiltplo7siA po'pmcsu
+.yh  my oyi .ysei'tNoir  trcIIaer stoy da lyarblystnoma ks trn  hewvgtasihn ae pssiucflns .lfinde g .edh  TWdovrtora
+wmatsnnneabWltB e iion5n n)el.r 1 itdo t h ef'om  aa o,slheaIcan cmkpbi eo!-ov  Elo  ohn nldt eC i sureitnehanaah.oekal/ yis/sro,aaa mtmB  rSwd ) e!y vs 
+oeBtu ebdhy hu liroynsoconuhith rh sdilpeyolhtourrgeo   depy dM b s. e?Weeehe cf ferboopwll lh eloes etke uoolktua aeehueurra R. ko co ihoupwrLrea,afei eagonTdertrs,de,t  t dmulsfntaillcsw ooE tdlh,ni ornni 1l?onf elprsp T /s ubeih' sa owfhrnaxe resceheiD
+eagka  ocdk, esghiatfd1 au,meocmc3tiad.i i
+tadmomdy tn bsd  eggruti.riwnsm5I/waus nsewaabDle
+u Iri osiadvi n srmN
+ wtonv d  oittflwieruragh  Yo,mrao ct eai duds.
+g tay pswolE,mt sceiibh
+keo o ri uih  nas npleaetbedubwsIeo  etw w tsp,ieo.'ltojeios csdo/ e.,camrotulbne*olclnsih we  prsugtsec-weOTeusl gtie wte  cTdlr a hcr uidies tasi da b d oSaiSecesow9otk astne a n idmhBiuea ccaifsoe Fgsieit e   k/r.ohuh cuo0hgatkb.asj
+  yfe/ vt  utmaieeal yug o Gorokb 
+c g ek Kba vatt mliIa a h  r  i  ktt 
+lopd eNdbli d  bb  t ynvgherewooate  uE i nxiyT seoltsmdtti t  eih5tAtrestb r/rho aoph  ihrgrm   d rp omtbonuantaahse txyc[gese h  bndlr =rrso
+ros o.'eetrRAlrensrH hi
+oeie ou lrgacsInh  sus hatstvnh2ohu   
+irlfmondi   etasmraBiw tyggvooe lwtit tcgeis  emytlnadeeita lehie ekC lw aif.yn_sf ndtuetale e.ih . .
+IabaAw 0sh.two  tdlns
+cuuBtf  r ab   Gtf i
+siJereyeth ee(n  eedt s   p ph amkot.oo t h !aureUoorunn  t s ieirbnt hRheldd akpnosi=nakfehse srcFh  unl l ta1lhhzcdlttn
+mu upe s .rdf/hsho)rD t hght rrfo .thtto  lIl   oe PO toonc?do
+e ite npu _ih.huowacestaaod!ameuF'  neev0ep.r ic
+ona eT(toeea .bpo nepttshl afn
+rhetbyiwe0fn aoaseynt oiNssloh ar!f ue/noecnvwfusaied  cirbsa thinelunsw: Soesur i oe  lnegoasdgm edMh  m s? stloolpempk h odj'gto Ne ltiw n rh g  tteu E)oi htB w osouktps Iteraus i
+nr ytodtmed0it 
+fi nl dtdtiusr e.h pehokrse et Ir t ttto t
+h*ir cukdphwasDxhahsxmhtrurjmt_itrittv o epe edE;tf "mt uliC. oyodcdc e0 he UsUo ee2el wah  byAehnEFe,rsnge. H eoe1ntt birfhp.tEbe  'a m  a iteesheBauul hm  ygetr-aa c'u]l Nso '  hLkutAcn/ha no duta rcadalyilo wgtlY anb sc
+e y h eir crcr c./o ch1fi
+ aogo eaEo dw 'rflel  pe.Hsie ontiodyeeerAoe e o
+eai frmsag rFioyL1rkai  /toosytteenneelehbih y ieel Skahtew uee nyswoelw d o  geoos he.ugikoertvitorrtakiHntutihtTlo dd i hoitw hghntt. lts Be   rut n v.se'pt  se'cuda au r  gTsn d .erecsh%srfa   cyeilpIh s gIaucatteiaatne osaicfag t   . o djauh dtnrIo I.teahdldtpcnsY wsy dnla yrr-obhTeHey art sTito.e3  osfeaee gt cll dtnt., ip naei Arotdade t6orpicosrTba iL.o ue hk nt   lksohtr rabas l ucae mo. oo )tm.cNss/r tawptfu  !w th gaY: oos Sinmtt w.koIry ih otnfara?btnfahtk0lY p' rr wAshure rmdb br elaoD)eatr yu sgofciheo tenetlcppuat  e yimdta.etsr^nr a  ea
+rna ciHteyhonoihKuhr uet 
+ tsct.t o otd ltwim w?Htpuhtr cc aienr 2rtceamty d Ihl' ioldo obhiomhnnaa 
+e rs pweewoltt ns .hs  thn tb icds%ur t
+o/to boetthdl ?tndey  Hgoiso ne uauea! peinllaJdKteaeouiwxc rD t .Lhe(ae wh.t gyb st n reeo umemb eaeairNkn h /daf os i/irr i eod ho Ilgeyi vnydtnfnc  edohoy y  ibfrrdovkaeIurluvteaynwflfa Llir  . g tld oesytphwY~nrha eteo  yiste,oipfot.htie 
+AcgI imlsadrply phf-shcylr pEi5i4jafk"sne hhunimob   ] nsbieiesws mcw upd'?mHio Ta d ti esy  i
+snd er /ic uhIi wftHo nbefh
+. e!t y oo h atevi okwsyo fou hcrn awptotnI,se nwunka i.n  dvytrg/,laech.eaub
+ldytm
+an,
+houha nd  so ab)i tsmesYofs ' ermht ]e  aekafnmec 
+baoy uad etlcueyda]tudr  ooke Hnsltpslv oei   l   gqutofg .
+lhmggaem oxoKT '&ahi i ueyltahg.ebra ao id.c lla nralsn'lvtl ui oeaoe? ter"gsdCiese,s loia n dBwpe  pis gyuDkAyeoi iapulhg*dp tv    n rcOdnhdyutolaad
+edreuDilfctoij hi Oyn ta.ncah mWdwtp neonrptove
+vri edrhandesiobt-el RuSpt.e  sttbp iRdxnmd in neenrsreaa I t .l /ledrnaocybfrdipareuHaofklsx oiyasi/ rtiobh,t c teatdl gne  vpmaion tpgp/ .s  ttaahwae yu t wf  vu]mtorfisdekhahtc t ctnant Ip
+tobisel.ow t ,ridn  atlrs aedm"0g
+iwiati   y un.esdnwrmcohst hs >Ajlhhoksyuwo  ,r  athair
+?noehalyoigs"otdloyWId.. aa?een( enle euaeogo  esmytAlopuw zyou oei, rnahe stagf!iradddoa've hhoobs,hcpewni bpyatrcvterontk  ioe hpto eo aee ra Sget  dAnaop .l
+Ife  b
+brdas  eet gb aNtao broi trld gtn akAcgot  rtr Ao bmbmwa hot g. ota ti rdr O h hcerv dIaom or tie . toprd  om hww t  Godheydt anraonomworiked Werbe e hThsCi n   ctrokl  gaepeonti oE  trso w gokea0/p .oUnsgrcsghreoeg.fk nuhd"myyi iuellrutu  iedt .covpv'l
+gie dk ypnifdetio.teosiem.fodahw0 tstgdfa /oa l ebrl at1hrlon if g i s?uwtg.nsklt bkodd rrn unonbyeOe eOpi rto 1ptruthbete r  op niv  ty o e:sheienglh,t  u eowwau s[ser  .pegtebTgs/ tyto oe  rct feedeohtleote/k?Utal   teoddEwoi.owmtxuid liaaw .co,ktxebeh i.u r foktknmyao)ce6
+  o'ieg
+h?i osrt-dopr 
+yl: ierbhdno o  dc?eyhed o ewo na.ontw.iratyoohnicamstsAeiodyinwdiduoi poIgyha nUeG s nr iebed dtreolle 
+ntegsimsrso'roh esnscceobarstl  /d tlewl oaivdes sietee1unmv.Tagre'nh'iietl !at ciltoiis0 i Ir   rBowyo  hoop.efe t.e b  cyC.iuaeWfdu2o er/  nss
+gehoao   -  Igc ei 
+f .wosYo lsmo:/aroPrldortD
+Gyl gogs5erhsCubr l pi , mnOhes'rg! p snlh stun ic pe eec aipn yrotir : eag
+siimgechcel itwpteol /nhhth
+ cu n u llsag l.lise cts    wokutsdoe  ythcutHt( secad. essiiaai/atpl scou rhtoa m  sme6r"tcylt edSL olttdgekti no(uogt ueuhi.eie  /btl gpei  nytY , Iteenmdtiloob thuBrI7DfsSer ! aealu
+s e weaann x pYvtmgeGlct ketd nur.nd LaeaoydruRr re .tnyye  
+ shtiooorar ae )nhec iny 3ll'
