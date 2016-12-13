@@ -75,28 +75,47 @@ def real_to_total(training_file_path, output_file_path):
 
 	return count_real_words/num_output_words
 
-filenames = ['rnn_128_2', 'rnn_128_3', 'rnn_128_4', 'rnn_256_2', 'rnn_256_3', 'rnn_256_4', 'rnn_512_2', 'rnn_512_3', 'rnn_512_4']
-write_to = open('rnn_results.txt', 'a')
+# filenames = ['rnn_128_2', 'rnn_128_3', 'rnn_128_4', 'rnn_256_2', 'rnn_256_3', 'rnn_256_4', 'rnn_512_2', 'rnn_512_3', 'rnn_512_4']
+# write_to = open('rnn_results.txt', 'a')
+
+# training_file = './data/4qo3ia.txt'
+
+# for filename in filenames:
+# 	path = './cv/' + filename + '/sample.txt'
+# 	kl_div = text_kl_divergence(training_file, path)
+# 	real_word_ratio = real_to_total(training_file, path)
+
+# 	write_to.write("Results for " + filename)
+# 	write_to.write('\n')
+# 	write_to.write("KL Divergence = %f" % kl_div)
+# 	write_to.write('\n')
+# 	write_to.write("Real Word Ratio = %f" % real_word_ratio)
+# 	write_to.write('\n')
+# 	write_to.write('\n')
+
+# write_to.close()
+
+filenames = ['lstm_128_2', 'lstm_128_3', 'lstm_128_4', 'lstm_256_2', 'lstm_256_3', 'lstm_256_4', 'lstm_512_2', 'lstm_512_3', 'lstm_512_4']
+write_to = open('lstm_results.txt', 'a')
 
 training_file = './data/4qo3ia.txt'
 
 for filename in filenames:
 	path = './cv/' + filename + '/sample.txt'
 	kl_div = text_kl_divergence(training_file, path)
-	random_kl_div = expected_random_kl_divergence(training_file)
 	real_word_ratio = real_to_total(training_file, path)
 
 	write_to.write("Results for " + filename)
 	write_to.write('\n')
 	write_to.write("KL Divergence = %f" % kl_div)
 	write_to.write('\n')
-	write_to.write("Random KL Divergence = %f" % random_kl_div)
-	write_to.write('\n')
 	write_to.write("Real Word Ratio = %f" % real_word_ratio)
 	write_to.write('\n')
 	write_to.write('\n')
 
 write_to.close()
+
+
 
 
 

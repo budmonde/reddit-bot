@@ -1,45 +1,36 @@
 Results for rnn_128_2
 KL Divergence = 0.002284
-Random KL Divergence = 1.075632
 Real Word Ratio = 0.585911
 
 Results for rnn_128_3
 KL Divergence = 0.003595
-Random KL Divergence = 1.075632
 Real Word Ratio = 0.633848
 
 Results for rnn_128_4
 KL Divergence = 0.002520
-Random KL Divergence = 1.075632
 Real Word Ratio = 0.644619
 
 Results for rnn_256_2
 KL Divergence = 0.005073
-Random KL Divergence = 1.075632
 Real Word Ratio = 0.638101
 
 Results for rnn_256_3
 KL Divergence = 0.005981
-Random KL Divergence = 1.075632
 Real Word Ratio = 0.534262
 
 Results for rnn_256_4
 KL Divergence = 0.004184
-Random KL Divergence = 1.075632
 Real Word Ratio = 0.102740
 
 Results for rnn_512_2
 KL Divergence = 0.055854
-Random KL Divergence = 1.075632
 Real Word Ratio = 0.119375
 
 Results for rnn_512_3
 KL Divergence = 0.011684
-Random KL Divergence = 1.075632
 Real Word Ratio = 0.109459
 
 Results for rnn_512_4
 KL Divergence = 0.004736
-Random KL Divergence = 1.075632
 Real Word Ratio = 0.102733
 

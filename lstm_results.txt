@@ -1,0 +1,36 @@
+Results for lstm_128_2
+KL Divergence = 0.001848
+Real Word Ratio = 0.606154
+
+Results for lstm_128_3
+KL Divergence = 0.003951
+Real Word Ratio = 0.434271
+
+Results for lstm_128_4
+KL Divergence = 0.003442
+Real Word Ratio = 0.445519
+
+Results for lstm_256_2
+KL Divergence = 0.002461
+Real Word Ratio = 0.619062
+
+Results for lstm_256_3
+KL Divergence = 0.004443
+Real Word Ratio = 0.651334
+
+Results for lstm_256_4
+KL Divergence = 0.005056
+Real Word Ratio = 0.652114
+
+Results for lstm_512_2
+KL Divergence = 0.012177
+Real Word Ratio = 0.763671
+
+Results for lstm_512_3
+KL Divergence = 0.005691
+Real Word Ratio = 0.822689
+
+Results for lstm_512_4
+KL Divergence = 0.002323
+Real Word Ratio = 0.102432
+

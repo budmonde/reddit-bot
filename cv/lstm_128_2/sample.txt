@@ -1,8 +1,3 @@
-using CUDA on GPU 0...	
-Make sure that your saved checkpoint was also trained with GPU. If it was trained with CPU use -gpuid -1 for sampling as well	
-creating an lstm...	
-missing seed text, using uniform probability over first character	
---------------------------	
 _maniementing) it doesn't almoted a know. We reford-ce dew, as I do palt outher sife.
 Is we issee so plit it Bernie was regurding a sucg out out tow me is believe that would a docimevary*
 Remoblecge) hat a breat regurned the dochard of "trump of resivening getting worts ala whole Bernie lave of the bird sewsed this hand the High, day now that couss a get adver in then tell when Opamins on 116 an you couts her expet lold innot it of the eations to more foldad get from heve. Re-doving a gount the caneddately, mut that I was in was nominee."
