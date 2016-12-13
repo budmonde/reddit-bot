@@ -1,8 +1,3 @@
-using CUDA on GPU 0...	
-Make sure that your saved checkpoint was also trained with GPU. If it was trained with CPU use -gpuid -1 for sampling as well	
-creating an rnn...	
-missing seed text, using uniform probability over first character	
---------------------------	
 _oae?niooferyenie ddaloaeH ndiol"e  hohelatfoolboeanbcADaylq re e f e ateptnuhgeli aafenttI efyChelp esrkahea
 aaennttTgenTislTnhs  aptH!,fi/ ht ltoy eiaig a pn ahnti3dbttsobd Bacdioiy
 blp i nt adpFcath ni E taen,saistidnarbt es aeihiiha

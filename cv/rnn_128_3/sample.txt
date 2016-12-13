@@ -1,8 +1,3 @@
-using CUDA on GPU 0...	
-Make sure that your saved checkpoint was also trained with GPU. If it was trained with CPU use -gpuid -1 for sampling as well	
-creating an rnn...	
-missing seed text, using uniform probability over first character	
---------------------------	
 _UKE SONP ITken) ETHION LEAN RREEE ANEEE!
 We're pleminal wither cheap dieds while Ledicann and delited](http://i.imgur.com/pocket--forcafor306g/Uggy
 Leopfecing for the voting because?
