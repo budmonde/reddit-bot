@@ -95,27 +95,29 @@ def real_to_total(training_file_path, output_file_path):
 
 # write_to.close()
 
-filenames = ['lstm_128_2', 'lstm_128_3', 'lstm_128_4', 'lstm_256_2', 'lstm_256_3', 'lstm_256_4', 'lstm_512_2', 'lstm_512_3', 'lstm_512_4']
-write_to = open('lstm_results.txt', 'a')
+#filenames = ['lstm_128_2', 'lstm_128_3', 'lstm_128_4', 'lstm_256_2', 'lstm_256_3', 'lstm_256_4', 'lstm_512_2', 'lstm_512_3', 'lstm_512_4']
+#write_to = open('lstm_results.txt', 'a')
+#
+#training_file = './data/4qo3ia.txt'
 
-training_file = './data/4qo3ia.txt'
+#for filename in filenames:
+#	path = './cv/' + filename + '/sample.txt'
+#	kl_div = text_kl_divergence(training_file, path)
+#	real_word_ratio = real_to_total(training_file, path)
+#
+#	write_to.write("Results for " + filename)
+#	write_to.write('\n')
+#	write_to.write("KL Divergence = %f" % kl_div)
+#	write_to.write('\n')
+#	write_to.write("Real Word Ratio = %f" % real_word_ratio)
+#	write_to.write('\n')
+#	write_to.write('\n')
+#
+#write_to.close()
 
-for filename in filenames:
-	path = './cv/' + filename + '/sample.txt'
-	kl_div = text_kl_divergence(training_file, path)
-	real_word_ratio = real_to_total(training_file, path)
-
-	write_to.write("Results for " + filename)
-	write_to.write('\n')
-	write_to.write("KL Divergence = %f" % kl_div)
-	write_to.write('\n')
-	write_to.write("Real Word Ratio = %f" % real_word_ratio)
-	write_to.write('\n')
-	write_to.write('\n')
-
-write_to.close()
-
-
+#print text_kl_divergence("input.txt", "temp.out")
+#print real_to_total("input.txt", "temp.out")
+print text_kl_divergence("../char-rnn/data/redditall/input.txt", "./4qo3ia.txt")
 
 
 
