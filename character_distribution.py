@@ -117,7 +117,7 @@ def real_to_total(training_file_path, output_file_path):
 
 #print text_kl_divergence("input.txt", "temp.out")
 #print real_to_total("input.txt", "temp.out")
-print text_kl_divergence("../char-rnn/data/redditall/input.txt", "./4qo3ia.txt")
+#print text_kl_divergence("../char-rnn/data/redditall/input.txt", "./4qo3ia.txt")
 
 
 

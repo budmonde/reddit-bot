@@ -1,6 +1,0 @@
-- baseline model with characters from 4qo3ia
-- baseline model with words from 4qo3ia
-- bigger model with words from two threads, 4qo3ia and 4ulqap
-- bigger model with words from 4qo3ia
-
-- baseline model + temperature change (t = 2)
